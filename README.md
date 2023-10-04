@@ -1,4 +1,4 @@
-⚠No me hago responsable de cualquier uso malintencionado realizado con esta herramienta⚠
+⚠No me hago responsable de cualquier uso malicioso realizado con esta herramienta⚠
 
 
 # keylogger
