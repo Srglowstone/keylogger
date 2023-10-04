@@ -4,10 +4,10 @@
 # keylogger
 Este repositorio consiste en un keylogger simple en python.
 
-[*] instalación
+[*] instalación:
   pip install pyinput
 
 
-[*] ejecución
+[*] ejecución:
   python3 keylogger.py
 
